@@ -1,0 +1,44 @@
+/* v6: reduce photographic image scale by ~13% */
+.hero-rotator {
+  width: min(100%, 425px);
+}
+.visual-note {
+  width: min(100%, 425px);
+}
+.host-image-wrap {
+  min-height: 540px;
+}
+.host-image-wrap img {
+  max-height: 600px;
+}
+.host-halo {
+  width: 330px;
+  height: 330px;
+  top: 72px;
+}
+
+@media (max-width: 980px) {
+  .hero-rotator,
+  .visual-note {
+    width: min(100%, 410px);
+  }
+  .host-image-wrap {
+    min-height: 450px;
+  }
+  .host-image-wrap img {
+    max-height: 520px;
+  }
+}
+
+@media (max-width: 680px) {
+  .hero-rotator,
+  .visual-note {
+    width: 88%;
+  }
+  .host-image-wrap {
+    min-height: 375px;
+  }
+  .host-image-wrap img {
+    max-height: 410px;
+  }
+}
