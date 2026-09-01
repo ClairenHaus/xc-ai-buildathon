@@ -4,7 +4,7 @@ Static GitHub Pages package for:
 
 AI in Action: The Buildathon  
 Tuesday, September 1, 2026  
-6:00 PM ET  
+7:00 PM ET  
 75 minutes  
 Live on Zoom  
 Free live attendance  
@@ -46,7 +46,7 @@ Includes:
 
 Pricing:
 
-- $19 before September 1, 2026 at 6:00 PM ET
+- $19 before September 1, 2026 at 7:00 PM ET
 - $29 once the Buildathon begins
 
 The confirmation page automatically switches from the $19 Stripe link to the $29 link at event start.
